@@ -1,0 +1,7 @@
+size
+add 1
+erase 0
+erase 0
+count 15
+size
+exit
